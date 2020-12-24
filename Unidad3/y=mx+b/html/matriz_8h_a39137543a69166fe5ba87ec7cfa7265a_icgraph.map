@@ -1,0 +1,9 @@
+<map id="isZero" name="isZero">
+<area shape="rect" id="node2" href="$matriz_8h.html#ac6bb81d91ab4ff212116a039ee137208" title="Funcion para Convertir una matriz a forma real. " alt="" coords="171,5,211,32"/>
+<area shape="rect" id="node4" href="$matriz_8h.html#a7b8a882994d366fd5583d8c177d1fc1b" title="Funcion para comprobar si hay inconsistencias. " alt="" coords="139,56,243,83"/>
+<area shape="rect" id="node5" href="$matriz_8h.html#a5c5ab2d2c2f6a0c5b1e091d7ab04e1a4" title="Funcion para Deducir la solución de espacio nulo. " alt="" coords="129,107,253,133"/>
+<area shape="rect" id="node6" href="$prueba_8c.html#abf1fcb73c707353500702424517cfe11" title="checkParticularSolution" alt="" coords="112,157,271,184"/>
+<area shape="rect" id="node8" href="$prueba_8c.html#a27beabfd48342a09b78bf959e6af6345" title="checkNullspaceSolution" alt="" coords="111,208,272,235"/>
+<area shape="rect" id="node3" href="$aplicacion_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="320,56,371,83"/>
+<area shape="rect" id="node7" href="$prueba_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="320,183,371,209"/>
+</map>
